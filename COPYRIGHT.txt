@@ -1,0 +1,16 @@
+Copyright (c) 2026 Pulse Stock Technical Analysis. All rights reserved.
+
+Proprietary and Confidential
+
+The software and documentation contained herein are the proprietary property of Pulse Stock Technical Analysis. All rights are reserved. No part of this software or documentation may be reproduced, transmitted, transcribed, stored in a retrieval system, or translated into any language or computer language, in any form or by any means, electronic, mechanical, magnetic, optical, chemical, manual, or otherwise, without the prior written permission of Pulse Stock Technical Analysis.
+
+The Licensee is granted a non-exclusive, non-transferable license to use the software for personal, non-commercial purposes only, subject to the terms and conditions outlined in the app's Terms of Service and Privacy Policy.
+
+Permission is NOT granted to:
+1. Copy, modify, or distribute the software for any purpose.
+2. Reverse engineer, decompile, or disassemble the software.
+3. Use the software for commercial purposes.
+4. Remove or alter any copyright notices or other proprietary markings.
+
+Pulse Stock Technical Analysis
+pulsestockapp@outlook.com
